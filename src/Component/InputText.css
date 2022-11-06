@@ -1,0 +1,85 @@
+.inpt{
+    width: 100%;
+    border: 1px solid #ddd2d2;
+    /* border-radius: 5px; */
+    padding: 5px 0 5px 0;
+    margin-bottom: 0.5rem !important;
+}
+
+
+.p-inputtext {
+    border-radius: 0px !important ;
+}
+.mymodalcode p{
+    font-size: 16px;
+    margin-bottom: 0;
+    margin-top: 1.5rem;
+}
+
+p{
+    margin-bottom: 0;
+}
+
+.autolable{
+    font-size: 16px;
+}
+
+label{
+    font-size: 16px;
+}
+
+input:focus-visible{
+    border : 1px solid #2684ff !important;
+}
+
+.inpt:active{
+    border : 1px solid #2684ff;
+} 
+
+
+.chekboxgrp{
+margin-top: 1rem;
+}
+
+
+
+.chekboxgrp label{
+    margin-left: 1rem;
+    font-size: 16px;
+}
+
+
+
+.radiobtngrp{
+    margin-bottom: 1.5rem;
+}
+
+
+.radiobtn label{
+    margin-left: 1rem;
+}
+
+
+.prefixstyle{
+    width: 2rem;
+    background: #2684ff;
+    color: white;
+    padding: 1rem;
+}
+
+
+.suffixstyle{
+    width: 2rem;
+    background: #808080d1;
+    color: white;
+    padding: 1rem;
+}
+
+.editbtnstyle{
+    background-color: #dc3545;
+}
+
+.editbtnstyle:hover{
+background-color: #bb2d3b;
+}
+

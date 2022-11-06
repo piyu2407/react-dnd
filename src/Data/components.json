@@ -1,0 +1,106 @@
+{ "ComponentViewList" : [
+        {
+            "id": 1,
+            "lable": "TextField",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 2,
+            "lable": "TextArea",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 3,
+            "lable": "Number",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 4,
+            "lable": "Password",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 5,
+            "lable": "Checkbox",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 6,
+            "lable": "DropDown",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 7,
+            "lable": "RadioButton",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 8,
+            "lable": "Button",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 9,
+            "lable": "ToggleButton",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 10,
+            "lable": "Rating",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 11,
+            "lable": "File-Upload",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 11,
+            "lable": "CommentBox",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 12,
+            "lable": "ProgressBar",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 13,
+            "lable": "Email",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 14,
+            "lable": "ConfirmPopup",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 14,
+            "lable": "Date",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 15,
+            "lable": "Time",
+            "type": "COMPONENT"
+             
+        },
+        {
+            "id": 16,
+            "lable": "DateTime",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 17,
+            "lable": "Mobile-Number",
+            "type": "COMPONENT"
+        },
+        {
+            "id": 18,
+            "lable": "Panel", 
+            "type": "COMPONENT"
+
+        }
+
+    ]
+    }

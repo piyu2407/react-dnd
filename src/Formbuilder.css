@@ -1,0 +1,54 @@
+
+
+.main h5{
+    text-align: start;
+}
+
+.main h3{
+    text-align: center;
+    margin-left: 19rem;
+}
+.myrow{
+    margin-top: 5rem;
+}
+
+.myrow input{    
+    /* width: 17.7rem; */
+    margin-bottom: 5px;
+}
+
+.drapdroparea{
+    border :1px solid black;
+    min-height: 500px;
+    height: auto;
+    margin-right: 5rem;
+}
+
+.area{
+    border :1px solid black;
+    min-height: 300px;
+    height: auto;
+    margin-right: 5rem;
+}
+
+
+.form_comp{
+    background-color: blueviolet;
+    color: white;
+    border: 1px solid black;
+    margin-bottom: 0.5rem;
+    text-align: start;
+    padding-left: 0.5rem;
+}
+
+.btnss2 {
+    /* margin: auto; */
+    margin-left: 100rem;
+
+}
+
+.btnss2 button{
+    margin: auto;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    font-size: 18px;
+}
